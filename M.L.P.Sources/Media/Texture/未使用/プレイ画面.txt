@@ -1,0 +1,30 @@
+play-analogM    :100x50
+
+play-analogN    :380x200
+
+play-BGA        :800x480    
+
+play-button1　    　:480x120
+
+play-button2　    　:192x96
+
+play-grooveS        :320x80
+
+play-grooveU        :313x74
+
+play-juggeLine    　:410x12
+
+play-longnote       :360x200
+
+play-note　　    　 :360x12
+
+play-rane1　　　　　:480x960
+
+play-rane2　　　　　:480x960
+
+play-scoreB     　　:300x40
+
+play-scoreF         :270x40
+
+
+
